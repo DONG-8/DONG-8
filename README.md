@@ -17,5 +17,5 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehdwns96)](https://solved.ac/qkrehdwns96)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrehdwns96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dong-8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
