@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Django-1A1928?style=flat-square&logo=Django&logoColor=green"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=#61DAFB"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dong-8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehdwns96)](https://solved.ac/qkrehdwns96)   
